@@ -10,7 +10,10 @@
 
 ### 기술스택
 > HTML, CSS, JavaScript, JQuery, BootStrap, Chart.js, JSTL, <br>
-> Oracle, ByBatis, Ajax, Spring, Apache Tomcat, MVC Model 2
+> Java, Spring, <br>
+> Oracle, ByBatis, <br>
+> Ajax, Apache Tomcat, <br>
+> MVC Model 2
 
 <br>
 
