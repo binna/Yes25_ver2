@@ -1,4 +1,4 @@
-# Spring Team Project(2020년 7월 15일 ~ 2020년 8월 5일)
+# Spring Team Project(2020.07.15 ~ 2020.08.05)
 ![image](https://user-images.githubusercontent.com/7114874/120634339-191edb80-c4a6-11eb-91d9-9c0db9603c32.png)
 
 <br>
